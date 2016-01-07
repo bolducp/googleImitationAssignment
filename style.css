@@ -1,0 +1,38 @@
+body{
+  font-size: 15px;
+}
+
+#main{
+  margin-top: 15%;
+  text-align: center;
+}
+
+#logo{
+  height:100px;
+}
+
+#mic{
+  height:20px;
+  margin-top: 7px;
+  margin-right: 10px;
+}
+
+#searchBox{
+  text-align: right;
+  border: solid;
+  border-width: thin;
+  border-color: lightgray;
+  margin-left: 26%;
+  margin-right: 26%;
+  height: 35px;
+}
+
+button{
+  height: 35px;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 13px;
+  color: dimgrey;
+  background-color: rgb(241, 241, 241);
+  cursor: pointer;
+}
